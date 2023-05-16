@@ -2,11 +2,10 @@ package cmd
 
 import (
 	"fmt"
-	"log"
-
-	"github.com/laraws/badger-cli/pkg/badger"
+	"github.com/laraws/badger-cli/v4/pkg/badger"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
+	"log"
 )
 
 var setCmd = &cobra.Command{
