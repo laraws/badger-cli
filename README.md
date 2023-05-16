@@ -1,9 +1,11 @@
 # badger-cli
 
 **v1**
+
 `go install github.com/laraws/badger-cli@latest`
 
 **v4**
+
 `go install github.com/laraws/badger-cli/v4@latest`
 
 
